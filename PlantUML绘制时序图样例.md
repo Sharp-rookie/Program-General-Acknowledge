@@ -1,5 +1,3 @@
-PlantUML绘制时序图常用样例
-
 &emsp;&emsp;时序图（Sequence Diagram），又名序列图、循序图、顺序图，是一种UML交互图。它通过描述对象之间发送消息的时间顺序显示多个对象之间的动态协作。它可以表示用例的行为顺序，当执行一个用例行为时，其中的每条消息对应一个类操作或状态机中引起转换的触发事件。
 
 样例1：
@@ -18,7 +16,7 @@ B --> A : text2
 
 效果：
 
-<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123356.png" alt="image-20210825105656559" style="zoom: 33%;" />
+<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123356.png" alt="image-20210825105656559" width="15%" />
 
 &nbsp;
 
@@ -42,7 +40,7 @@ B --> A : text4
 
 效果：
 
-<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123357.png" alt="image-20210825111226804" style="zoom:33%;" />
+<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123357.png" alt="image-20210825111226804" width="15%" />
 
 &nbsp;
 
@@ -68,7 +66,7 @@ note right: comment4
 
 效果：
 
-<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123358.png" alt="image-20210825112152648" style="zoom: 50%;" />
+<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123358.png" alt="image-20210825112152648" width="30%" />
 
 &nbsp;
 
@@ -101,7 +99,7 @@ end note
 
 效果：
 
-<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123359.png" alt="image-20210825113055800" style="zoom:50%;" />
+<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123359.png" alt="image-20210825113055800" width="50%" />
 
 &nbsp;
 
@@ -137,7 +135,7 @@ B --> A : <s:black>text4</s>
 
 效果：
 
-![image-20210825120605218](https://gitee.com/lrk612/md_picture/raw/master/img/20210825123400.png)
+![image-20210825120605218](https://img-blog.csdnimg.cn/img_convert/e7e45fb167a8bdca3bbd15db36200413.png)
 
 &nbsp;
 
@@ -159,7 +157,7 @@ B --> A : text4
 
 效果：
 
-<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123401.png" alt="image-20210825120927516" style="zoom: 50%;" />
+<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123401.png" alt="image-20210825120927516" width="10%" />
 
 &nbsp;
 
@@ -181,7 +179,7 @@ B --> A : text4
 
 效果：
 
-<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123402.png" alt="image-20210825121326063" style="zoom:50%;" />
+<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123402.png" alt="image-20210825121326063" width="10%" />
 
 &nbsp;
 
@@ -207,7 +205,7 @@ B --> A : text4
 
 效果：
 
-<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123403.png" alt="image-20210825122232668" style="zoom: 50%;" />
+<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123403.png" alt="image-20210825122232668" width="10%" />
 
 &nbsp;
 
@@ -230,7 +228,7 @@ B -> C : text2
 
 效果：
 
-<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123404.png" alt="image-20210825122610329" style="zoom:50%;" />
+<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123404.png" alt="image-20210825122610329" width="25%" />
 
 &nbsp;
 
@@ -252,7 +250,7 @@ B --> A : text2
 
 效果：
 
-<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123405.png" alt="image-20210825122941222" style="zoom:33%;" />
+<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123405.png" alt="image-20210825122941222" width="15%" />
 
 &nbsp;
 
@@ -280,7 +278,7 @@ par->D : to database
 
 效果：
 
-<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123406.png" alt="image-20210825110640942" style="zoom: 50%;" />
+<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123406.png" alt="image-20210825110640942" width="40%" />
 
 &nbsp;
 
@@ -289,4 +287,3 @@ par->D : to database
 &nbsp;
 
 &emsp;&emsp;此外PlantUML还可用于绘制用例图、类图、流程图、组件图、状态图、对象图等，以后用到了再补充。
-
