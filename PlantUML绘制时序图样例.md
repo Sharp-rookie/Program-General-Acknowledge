@@ -99,7 +99,7 @@ end note
 
 效果：
 
-<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123359.png" alt="image-20210825113055800" width="50%" />
+<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123359.png" alt="image-20210825113055800" width="40%" />
 
 &nbsp;
 
@@ -228,7 +228,7 @@ B -> C : text2
 
 效果：
 
-<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123404.png" alt="image-20210825122610329" width="25%" />
+<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123404.png" alt="image-20210825122610329" width="20%" />
 
 &nbsp;
 
@@ -250,7 +250,7 @@ B --> A : text2
 
 效果：
 
-<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123405.png" alt="image-20210825122941222" width="15%" />
+<img src="https://gitee.com/lrk612/md_picture/raw/master/img/20210825123405.png" alt="image-20210825122941222" width="12%" />
 
 &nbsp;
 
